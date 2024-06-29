@@ -1,4 +1,4 @@
-# Prediksi Anomali dengan Model
+# Prediksi Anomali dalam Transaksi dengan Model Machine Learning
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk mengidentifikasi entitas atau kejadian yang tidak umum atau mencurigakan dalam data.
