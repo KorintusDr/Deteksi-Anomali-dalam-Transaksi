@@ -1,7 +1,7 @@
 # Prediksi Anomali dengan Model
 
 ## Deskripsi Proyek
-Proyek ini menyajikan sebuah skrip sederhana untuk melakukan prediksi anomali pada data test menggunakan sebuah model yang telah dilatih sebelumnya. Prediksi ini bertujuan untuk mengidentifikasi entitas atau kejadian yang tidak umum atau mencurigakan dalam data.
+Proyek ini bertujuan untuk mengidentifikasi entitas atau kejadian yang tidak umum atau mencurigakan dalam data.
 
 
 ## Langkah-Langkah Pembuatan Model
